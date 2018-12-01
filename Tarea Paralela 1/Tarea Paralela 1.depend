@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1543637778 source:c:\users\tyrano\tarea paralela 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<algorithm>
+	"funciones.h"
+
+1543637638 c:\users\tyrano\tarea paralela 1\funciones.h
+	"funciones.cpp"
+
+1543637979 c:\users\tyrano\tarea paralela 1\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<algorithm>
+	"funciones.h"
+	<math.h>
+
